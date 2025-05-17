@@ -46,7 +46,7 @@ const TaskCard = ({ task, onEdit, onDelete }) => {
         <h3
           className="
     text-m font-semibold tracking-tight
-    text-white
+    text-black
     truncate max-w-[70%]
     transition-colors duration-300
   "
