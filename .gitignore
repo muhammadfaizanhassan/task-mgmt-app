@@ -1,0 +1,46 @@
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.env
+
+# Logs
+logs/
+*.log
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build output
+dist/
+build/
+
+# React
+*.env.local
+*.env.development.local
+*.env.test.local
+*.env.production.local
+
+# VSCode
+.vscode/
+
+# MongoDB dump
+dump/
+
+# Coverage reports
+coverage/
+
+# IDEs
+.idea/
+*.sw?
+
+# Optional: if using Parcel, Next.js, or other tools
+.cache/
+.next/
+out/
