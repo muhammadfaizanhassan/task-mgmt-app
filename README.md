@@ -20,7 +20,10 @@ A simple and efficient Task Management App built with **Node.js**, **Express**, 
 ---
 
 ## 📦 Tech Stack
-
+- React (Functional Components + Hooks)
+- Axios for API calls
+- React Router (optional, if you have multiple pages)
+- Tailwind CSS-CLI
 - **Backend**: Node.js, Express
 - **Database**: MongoDB (with Mongoose)
 - **Hosting**: Render
